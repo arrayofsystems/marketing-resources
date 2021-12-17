@@ -7,6 +7,6 @@
 - [Hidden Job Market](https://www.linkedin.com/learning/find-a-job-in-the-hidden-job-market/finding-your-unadvertised-dream-job)
 - [HubSpot Social Media](https://academy.hubspot.com/courses/social-media)
 
-## Career Couaching
+## Career Coaching
 
 - [NYPL](https://www.nypl.org/adults/career-employment/virtual/support)
