@@ -10,3 +10,9 @@
 ## Career Coaching
 
 - [NYPL](https://www.nypl.org/adults/career-employment/virtual/support)
+
+## Company Research
+
+- [Hunter: Find People who Work for the Company](https://hunter.io/)
+- [Crunchbase: Company Info](https://www.crunchbase.com/)
+- [Glassdoor: Interview Questions](https://www.glassdoor.com/)
